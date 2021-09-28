@@ -18,17 +18,38 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 
 ## Installation
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+clone repository: (https://github.com/hotsoup42/Object-Relational-Mapping-ORM-E-Commerce-Back-End)
+create a `.env` file
+
+- DB_USER=root
+- DB_PW=password
+- DB_NAME=ecommerce_db
+
+start 'mysql' in terminal `mysql -u root -p`, followed by `source db/schema.sql.`
+seed using `npm run seed` in terminal
+
 ## Usage
-Provide instructions and examples for use. Include screenshots as needed.
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+start by in terminal `npm start`
+### tutorial links:
+[Fist Steps: https://drive.google.com/file/d/1LF1BimNEBpIe9vGOUjML0dTjmI1naqcz/view](https://drive.google.com/file/d/1LF1BimNEBpIe9vGOUjML0dTjmI1naqcz/view)
+
+[Tags: https://drive.google.com/file/d/1s5Srr4ii9PBSTl6eHqQdFg-PItTHl5lZ/view](https://drive.google.com/file/d/1s5Srr4ii9PBSTl6eHqQdFg-PItTHl5lZ/view)
+
+[Categories: https://drive.google.com/file/d/1kKJhnWIn9SGHxM4Lzu2Rhd8aMlH_Mbre/view](https://drive.google.com/file/d/1kKJhnWIn9SGHxM4Lzu2Rhd8aMlH_Mbre/view)
+
+[Products: https://drive.google.com/file/d/1s5Srr4ii9PBSTl6eHqQdFg-PItTHl5lZ/view](https://drive.google.com/file/d/1s5Srr4ii9PBSTl6eHqQdFg-PItTHl5lZ/view)
+
     
 CLICK ON IMAGES FOR WALKTHROUGH VIDEOS
 
 [![fist steps](./assets/npm-i-seed-start.PNG)](https://drive.google.com/file/d/1LF1BimNEBpIe9vGOUjML0dTjmI1naqcz/view)
+
 [![tags](./assets/tags.PNG)](https://drive.google.com/file/d/1s5Srr4ii9PBSTl6eHqQdFg-PItTHl5lZ/view)
+
 [![categories](./assets/categories.PNG)](https://drive.google.com/file/d/1kKJhnWIn9SGHxM4Lzu2Rhd8aMlH_Mbre/view)
+
 [![products](./assets/products.PNG)](https://drive.google.com/file/d/1s5Srr4ii9PBSTl6eHqQdFg-PItTHl5lZ/view)
+
 
 ## Credits
 Jose E diaz: jose22gw@gmail.com
