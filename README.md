@@ -33,7 +33,7 @@ start by in terminal `npm start`
 ### tutorial links:
 [Fist Steps: https://drive.google.com/file/d/1LF1BimNEBpIe9vGOUjML0dTjmI1naqcz/view](https://drive.google.com/file/d/1LF1BimNEBpIe9vGOUjML0dTjmI1naqcz/view)
 
-[Tags: https://drive.google.com/file/d/1s5Srr4ii9PBSTl6eHqQdFg-PItTHl5lZ/view](https://drive.google.com/file/d/1s5Srr4ii9PBSTl6eHqQdFg-PItTHl5lZ/view)
+[Tags:https://drive.google.com/file/d/1LXX65wzF6EQ1xSIvC9xHW4FyJecBWm0k/view](https://drive.google.com/file/d/1LXX65wzF6EQ1xSIvC9xHW4FyJecBWm0k/view)
 
 [Categories: https://drive.google.com/file/d/1kKJhnWIn9SGHxM4Lzu2Rhd8aMlH_Mbre/view](https://drive.google.com/file/d/1kKJhnWIn9SGHxM4Lzu2Rhd8aMlH_Mbre/view)
 
@@ -44,7 +44,7 @@ CLICK ON IMAGES FOR WALKTHROUGH VIDEOS
 
 [![fist steps](./assets/npm-i-seed-start.PNG)](https://drive.google.com/file/d/1LF1BimNEBpIe9vGOUjML0dTjmI1naqcz/view)
 
-[![tags](./assets/tags.PNG)](https://drive.google.com/file/d/1s5Srr4ii9PBSTl6eHqQdFg-PItTHl5lZ/view)
+[![tags](./assets/tags.PNG)](https://drive.google.com/file/d/1LXX65wzF6EQ1xSIvC9xHW4FyJecBWm0k/view)
 
 [![categories](./assets/categories.PNG)](https://drive.google.com/file/d/1kKJhnWIn9SGHxM4Lzu2Rhd8aMlH_Mbre/view)
 
